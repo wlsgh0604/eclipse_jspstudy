@@ -17,6 +17,7 @@
   <h1>JSP 주석을 확인하는 예제</h1>
   <h1>merge 연습중</h1>
   merge
+  test
   <%=5+3 %>
 </body>
 </html>
